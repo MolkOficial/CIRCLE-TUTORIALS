@@ -1,11 +1,3 @@
-<a href="">
-  <picture>
-    <source srcset="https://chromeos.dev/badges/en/dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://chromeos.dev/badges/en/secondary.svg" alt="Add to Chromebook"/>
-  </picture>
-</a>
-
-
 # How To Run The Engine In ChromeBooks And Linux Devices???
 ## Requirements
 - [Love2D APK (Obligatory)](https://love2d.org/)
@@ -25,4 +17,8 @@
 
  6: Select The File And Thats it
 
+# Other Tutorials
+<a href="">
+  <img src="https://chromeos.dev/badges/en/primary.svg" alt="Add to Chromebook"/>
+</a>
  
