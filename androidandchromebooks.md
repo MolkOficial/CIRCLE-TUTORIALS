@@ -18,7 +18,8 @@
  6: Select The File And Thats it
 
 # Other Tutorials
+
 <a href="">
-  <img src="https://chromeos.dev/badges/en/primary.svg" alt="Add to Chromebook"/>
+  <img src="https://chromeos.dev/badges/en/primary.svg" alt="Add to your Chromebook"/>
 </a>
  
