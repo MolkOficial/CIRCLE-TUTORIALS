@@ -17,9 +17,9 @@
 
  6: Select The File And Thats it
 
-# Other Tutorials
-
-<a href="">
-  <img src="https://chromeos.dev/badges/en/primary.svg" alt="Add to your Chromebook"/>
+<a href="https://github.com/MolkOficial/CIRCLE-TUTORIALS/blob/main/androidandchromebooks.md">
+  <img src="https://chromeos.dev/badges/en/primary.svg" alt="Add to Chromebook"/>
 </a>
+
+
  
