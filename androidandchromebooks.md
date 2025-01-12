@@ -1,4 +1,4 @@
-# How To Run The Engine In ChromeBooks And Linux Devices???
+# How To Run The Engine In ChromeBooks And Android Devices???
 ## Requirements
 - [Love2D APK (Obligatory)](https://love2d.org/)
 - [Android Apps Support (Only In Chromebooks)](https://support.google.com/chromebook/answer/7021273?hl=en)
