@@ -20,7 +20,6 @@
 ## <a href="https://github.com/MolkOficial/CIRCLE-TUTORIALS/blob/main/androidandchromebooks.md">
   <img src="https://chromeos.dev/badges/en/primary.svg" alt="Add to Chromebook"/>
 </a>
-
 ## <a href="https://github.com/MolkOficial/CIRCLE-TUTORIALS/blob/main/androidandchromebooks.md">
   <img src="https://github.com/MolkOficial/CIRCLE-TUTORIALS/blob/main/images/images.png" alt="Install In Android"/>
 </a>
